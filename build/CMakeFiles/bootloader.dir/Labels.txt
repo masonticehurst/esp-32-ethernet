@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Users/Mason/esp-ether/build/CMakeFiles/bootloader
+C:/Users/Mason/esp-ether/build/CMakeFiles/bootloader.rule
+C:/Users/Mason/esp-ether/build/CMakeFiles/bootloader-complete.rule
+C:/Users/Mason/esp-ether/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/Mason/esp-ether/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/Mason/esp-ether/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/Mason/esp-ether/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/Mason/esp-ether/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/Mason/esp-ether/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/Mason/esp-ether/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

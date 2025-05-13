@@ -1,0 +1,41 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "C:\\Users\\Mason\\esp\\v5.4.1\\esp-idf",
+    "idf.pythonInstallPath": "C:\\Espressif\\tools\\idf-python\\3.11.2\\python.exe",
+    "idf.openOcdConfigs": [
+        "board/esp32s3-bridge.cfg"
+    ],
+    "idf.portWin": "COM3",
+    "idf.toolsPathWin": "C:\\Espressif",
+    "idf.flashType": "UART",
+    "files.associations": {
+        ".als.json": "jsonc",
+        "stdio.h": "c",
+        "esp_flash.h": "c",
+        "esp_chip_info.h": "c",
+        "esp_wifi.h": "c",
+        "nvs_flash.h": "c",
+        "esp_wifi_default.h": "c",
+        "ip4_addr.h": "c",
+        "sdkconfig.h": "c",
+        "esp_http_server.h": "c",
+        "esp_event.h": "c",
+        "esp_eth.h": "c",
+        "eth.h": "c",
+        "esp_netif.h": "c",
+        "webserver.h": "c",
+        "esp_eth_driver.h": "c",
+        "util.h": "c",
+        "esp_timer.h": "c",
+        "ethernet_init.h": "c",
+        "esp_log.h": "c",
+        "wifi.h": "c",
+        "ratio": "c",
+        "gpio.h": "c",
+        "spi_master.h": "c",
+        "bitset": "c"
+    },
+    "idf.customExtraVars": {
+        "IDF_TARGET": "esp32"
+    }
+}
