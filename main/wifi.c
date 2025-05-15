@@ -45,8 +45,8 @@ void wifi_init(void)
 
     wifi_config_t wifi_config = {
         .sta = {
-            .ssid = "Fios-T2KZY",
-            .password = "peak726elk388thumb",
+            .ssid = "SSID_GOES_HERE",
+            .password = "PASSWORD_GOES_HERE",
             .threshold.authmode = WIFI_AUTH_WPA2_PSK,
         },
     };
